@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="3" failures="0" name="com.cqu.AppTest" time="0.209" errors="0" skipped="0">
+  <properties>
+    <property name="idea.version" value="2024.1.4"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="22.0.1+8-16"/>
+    <property name="sun.boot.library.path" value="F:\Program Files\Java\jdk-22\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="F:\code\mavenProject\user_com\my-maven-modul"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="F:\code\mavenProject\user_com\my-maven-modul"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="22.0.1+8-16"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\vesper\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="maven.ext.class.path" value="F:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="F:\Program Files\maven\apache-maven-3.6.3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="F:\Program Files\Java\jdk-22\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;F:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\mingw64\bin;F:\Program Files\MATLAB\R2022b\runtime\win64;F:\Program Files\MATLAB\R2022b\bin;F:\Program Files\Git\cmd;F:\Program Files\Git\bin;F:\texlive\2024\bin\windows;F:\Program Files\Java\jdk-22\bin;F:\Program Files\Java\jdk-22\jre\bin;C:\Program Files (x86)\MySQL\MySQL Server 5.5\bin;F:\Program Files\maven\apache-maven-3.6.3\bin;F:\Python\Scripts\;F:\Python\;C:\Users\vesper\AppData\Local\Microsoft\WindowsApps;F:\Microsoft VS Code\bin;F:\Program Files\Git\bin;;F:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;;."/>
+    <property name="jansi.passthrough" value="true"/>
+    <property name="maven.conf" value="F:\Program Files\maven\apache-maven-3.6.3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="66.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="maven.repo.local" value="F:\code\respository"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\vesper"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="22"/>
+    <property name="user.name" value="vesper"/>
+    <property name="java.class.path" value="F:\Program Files\maven\apache-maven-3.6.3\boot\plexus-classworlds-2.6.0.jar;F:\Program Files\maven\apache-maven-3.6.3\boot\plexus-classworlds.license"/>
+    <property name="java.vm.specification.version" value="22"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2024.1.4 -s F:\Program Files\maven\apache-maven-3.6.3\conf\settings.xml -Dmaven.repo.local=F:\code\respository test"/>
+    <property name="java.home" value="F:\Program Files\Java\jdk-22"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="22.0.1"/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.stderr.encoding" value="UTF-8"/>
+    <property name="maven.home" value="F:\Program Files\maven\apache-maven-3.6.3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2024-04-16"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.stdout.encoding" value="UTF-8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.cqu.AppTest" name="addTest" time="0.202"/>
+  <testcase classname="com.cqu.AppTest" name="updateTest" time="0.003"/>
+  <testcase classname="com.cqu.AppTest" name="deleteTest" time="0.004"/>
+</testsuite>
